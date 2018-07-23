@@ -8,7 +8,7 @@ sudo chown -R apache.apache /usr/share/centreon/locale/zh-CN/LC_MESSAGES
 sudo systemctl restart httpd (CentOS7/Debian)
 sudo service httpd restart (CentOS6)
 ```
-![avatar][./translate.png]
+![Alt text][./translate.png]
 ![avatar][./home.png]
 - Nagvis can be well integrated with centreon
 ![avatar][./nagvis.png]
