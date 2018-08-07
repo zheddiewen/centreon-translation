@@ -1,5 +1,5 @@
 ### 中文翻译
-- Maintain by eddiewen<eddiewen@icanwne.com>
+- Maintain by eddiewen <eddiewen@icanwen.com>
 - 在Centreon中创建语言目录
 ```shell
 sudo mkdir -p /usr/share/centreon/www/locale/zh_CN/LC_MESSAGES 
